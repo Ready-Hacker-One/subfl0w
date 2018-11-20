@@ -20,7 +20,7 @@ subfl0w is a tool which give it a subdomains list and it's search on it for a su
 
 ## Your tool not good!
 
-yes it's, Feel free to:
+Yes, you're probably correct. Feel free to:
 
 * Not use it.
 * Show me how to make it better.
