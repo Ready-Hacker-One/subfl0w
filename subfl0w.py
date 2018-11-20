@@ -11,7 +11,7 @@ def logo():
  \\___ \\|  |  / \\_\\ \\  |  |  |_\\  \\_/   \\     / 
 /____  >____/|___  /__|  |____/\\_____  /\\/\\_/  
      \\/          \\/                  \\/        
-		"""+Style.RESET_ALL)
+   # Coded By Mohamed Sayed - @flex0geek	\n"""+Style.RESET_ALL)
 
 try:
 	file = open(sys.argv[1], 'r+')
